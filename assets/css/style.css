@@ -1,0 +1,121 @@
+@import url('https://fonts.cdnfonts.com/css/gotham-rounded?styles=36541,36543,36542');
+
+body {
+    font-family: 'Gotham Rounded', sans-serif;
+    font-weight: 300;
+    color: #753728;
+    font-size: 0.9em;
+}
+
+.bold {
+    font-weight: 400;
+}
+
+.color-1 {
+    color: #753728;
+}
+
+.color-2 {
+    color: #943725;
+}
+
+.color-3 {
+    color: #d06635;
+}
+
+.btn-color-2 {
+    background-color: #943725;
+    border-color: #943725;
+    color: white
+}
+
+.btn-color-2:hover {
+    background-color: #d06635;
+    border-color: #d06635;
+    color: white;
+}
+
+.btn-color-reverse-3 {
+    background-color: white;
+    border-color: #d06635;
+    color: #d06635;
+}
+
+.btn-color-reverse-3:hover {
+    background-color: #d06635;
+    border-color: #d06635;
+    color: white;
+}
+
+.underline {
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+a {
+    color: #943725;
+}
+
+a:hover {
+    color: #d06635;
+}
+
+
+/*a {
+    color: white;
+    text-decoration: none;
+}*/
+
+.arrow {
+    text-align: center;
+    margin: 80% 0;
+    opacity: 0.5;
+}
+
+.arrow a {
+    color: white;
+    text-decoration: none;
+}
+
+.bounce {
+    -webkit-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+@-webkit-keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-30px);
+    }
+
+    60% {
+        transform: translateY(-15px);
+    }
+}
+
+@keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-30px);
+    }
+
+    60% {
+        transform: translateY(-15px);
+    }
+}
