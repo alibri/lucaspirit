@@ -147,7 +147,7 @@
         </div>
     </section>
 
-    <footer class="mt-3 text-center">
+    <footer class="mt-5 text-center">
         <div class="container">
             <ul class="list-inline mb-5">
                 <li class="list-inline-item color-2 underline">&nbsp;DISEÑO | <a href="https://WWW.FEDERICOBENAGHI.COM" target="_blank">WWW.FEDERICOBENAGHI.COM</a></li>
