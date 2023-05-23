@@ -40,7 +40,7 @@
         <a id="start">&nbsp;</a>
         <div class="container text-center">
             <div class="row align-items-center">
-                <div class="col-6 mx-auto">
+                <div class="col-lg-6 col-md-12 mx-auto">
                     <div class="color-3 bold mb-1">TRACK</div>
                     <div class="color-2">ARUNACHALA</div>
                     <div class="color-2">SHRI KRISHNA SHARANAM MAMAH</div>
@@ -56,12 +56,12 @@
                         <a class="btn btn-primary rounded-pill btn-color-2 mt-5" role="button" href="<?php echo $config['download'];?>">DESCARGAR</a>
                     </div>
                 </div>
-                <div class="col-6 mx-auto">
+                <div class="col-lg-6 col-md-12 mx-auto">
                     <img class="img-fluid" src="assets/img/tapa-disco.png" />
                 </div>
             </div>
             <div class="row align-items-center-">
-                <div class="col-6 align-self-center">
+                <div class="col-lg-6 col-md-12 align-self-center">
                     <div class="row">
                         <div class="col-6 align-self-center text-end color-3">Cualquier dificultad en la descarga
                             ponte en contacto con nosostros</div>
