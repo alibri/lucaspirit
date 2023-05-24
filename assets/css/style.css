@@ -128,4 +128,11 @@ a:hover {
     .header-bg {
         background-image: url('../img/bg-bhava-mb.png');
     }
+    .arrow {
+        text-align: center;
+        margin: 80% 0;
+        opacity: .5;
+        bottom: -200px;
+        position: relative;
+    }
 }
