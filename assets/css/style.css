@@ -124,7 +124,7 @@ a:hover {
     background-image: url('../img/bg-bhava.jpg');
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 800px) {
     .header-bg {
         background-image: url('../img/bg-bhava-mb.jpg');
     }
