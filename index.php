@@ -89,12 +89,12 @@
                 <div class="col-lg-7 mx-auto">
                     <div>
                         La palabra bhāva tiene múltiples definiciones,
-                        pero si tuviéramos que resumirla en una idea sería:
+                        pero si tuviéramos que resumirla en una idea sería:<br/>
                         <strong>«el bhāva lo es todo»</strong>.
                     </div>
                     <div class="mt-3">
-                        En el plano psicológico es tu carácter;
-                        en el plano emocional es el sentimiento que te inunda;
+                        En el plano psicológico, es tu carácter;
+                        en el plano emocional, es el sentimiento que te inunda;
                         a nivel energético es lo-que-estás-vibrando; en inglés lo traducen
                         como moody en la calle le dicen «actitud».
                     </div>
@@ -121,7 +121,7 @@
                 <div class="col-lg-6 mx-auto">
 
                     <div class="color-3 bold mb-1">FICHA TÉCNICA </div>
-                    <div class="color-2">-GRABACION, PRODUCCIÓN Y ARREGLOS | LUCA&#xB4;SPIRIT </div>
+                    <div class="color-2">-GRABACIÓN, PRODUCCIÓN Y ARREGLOS | LUCA&#xB4;SPIRIT </div>
                     <div class="color-2">-PERCUSIÓN | JAUME CATA </div>
                     <div class="color-2">-SITAR EN SITA RAM Y MULA MANTRA | TONY JAGWAR </div>
                     <div class="color-2">-VIOLIN | CLAUDIA MADHURIMA </div>
