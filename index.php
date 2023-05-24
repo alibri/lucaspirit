@@ -88,9 +88,9 @@
             <div class="row">
                 <div class="col-lg-7 mx-auto">
                     <div>
-                        La palabra bhava tiene múltiples definiciones,
+                        La palabra bhāva tiene múltiples definiciones,
                         pero si tuviéramos que resumirla en una idea sería:
-                        <strong>«el bhava lo es todo»</strong>.
+                        <strong>«el bhāva lo es todo»</strong>.
                     </div>
                     <div class="mt-3">
                         En el plano psicológico es tu carácter;
@@ -99,16 +99,16 @@
                         como moody en la calle le dicen «actitud».
                     </div>
                     <div class="mt-3">
-                        Cuando se trata de lo Divino, el bhava es lo único que importa.
+                        Cuando se trata de lo Divino, el bhāva es lo único que importa.
                         Los frutos están determinados por la semilla, pero también por el método de cultivo.
-                        El bhava es regar con la mayor frecuencia posible el estado interior que te lleve a gozar de
+                        El bhāva es regar con la mayor frecuencia posible el estado interior que te lleve a gozar de
                         una relación personal de amor con lo Divino, en cualquiera de sus manifestaciones.
-                        En el bhava se reúnen la intención, la remembranza constante
+                        En el bhāva se reúnen la intención, la remembranza constante
                         y la llama de la pasión puestas al servicio de tu plenitud verdadera.
                     </div>
                     <div class="mt-3">
                         Por eso los textos afirman:
-                        así como sea tu bhava, así será tu mundo.
+                        así como sea tu bhāva, así será tu mundo.
                     </div>
                     <div class="mt-3">
                         <strong>Por mi amigo Naren Herrero</strong>

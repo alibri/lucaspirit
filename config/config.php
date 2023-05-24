@@ -1,7 +1,7 @@
 <?php
 
 $config = [
-    'title'     => 'Luca\'Spirit - Bhâva',
+    'title'     => 'Luca\'Spirit - Bhāva',
     'email'     => 'lucasmascianospirit@gmail.com',
     'download'  => 'https://lucaspirit.bandcamp.com/yum',
     'css'       => [
