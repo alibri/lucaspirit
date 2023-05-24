@@ -121,12 +121,12 @@ a:hover {
 }
 
 .header-bg {
-    background-image: url('../img/bg-bhava.png');
+    background-image: url('../img/bg-bhava.jpg');
 }
 
 @media screen and (max-width: 992px) {
     .header-bg {
-        background-image: url('../img/bg-bhava-mb.png');
+        background-image: url('../img/bg-bhava-mb.jpg');
     }
     .arrow {
         text-align: center;

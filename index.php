@@ -57,7 +57,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 mx-auto">
-                    <img class="img-fluid" src="assets/img/tapa-disco.png" />
+                    <img class="img-fluid" src="assets/img/tapa-disco.jpg" />
                 </div>
             </div>
             <div class="row align-items-center-">
@@ -78,11 +78,11 @@
     </section>
 
     <section id="ficha" class="pt-5"
-        style="background-image: url('assets/img/bg-ficha.png');">
+        style="background-image: url('assets/img/bg-ficha.jpg');">
         <div class="container text-center">
             <div class="row mt-5">
                 <div class="col-lg-8 mx-auto">
-                    <img class="img-fluid mb-5" src="assets/img/logo-dark.png" width="200px" />
+                    <img class="img-fluid mb-5" src="assets/img/logo-dark.jpg" width="200px" />
                 </div>
             </div>
             <div class="row">
