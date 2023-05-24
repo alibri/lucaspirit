@@ -119,3 +119,13 @@ a:hover {
         transform: translateY(-15px);
     }
 }
+
+.header-bg {
+    background-image: url('../img/bg-bhava.png');
+}
+
+@media screen and (max-width: 992px) {
+    .header-bg {
+        background-image: url('../img/bg-bhava-mb.png');
+    }
+}

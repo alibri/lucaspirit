@@ -25,7 +25,7 @@
 </head>
 
 <body id="page-top">
-    <header class="d-flex masthead" style="background-image: url('assets/img/bg-bhava.png');">
+    <header class="d-flex masthead header-bg">
     <div class="container text-center">
     <div class="row align-items-center">
                 <div class="col-6 mx-auto">
