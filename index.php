@@ -61,8 +61,8 @@
                     <img class="img-fluid" src="assets/img/tapa-disco.png" />
                 </div>
             </div>
-            <div class="row align-items-center-">
-                <div class="col-lg-6 col-md-12 align-self-center">
+            <div class="row mt-5">
+                <div class="col-lg-6 col-md-12 align-self-center mb-5">
                     <div class="row">
                         <div class="col-6 align-self-center text-end color-1">
                         Si no tienes la tarjeta con el código de descarga, adquiere tu álbum Bhāva en formato digital aquí
