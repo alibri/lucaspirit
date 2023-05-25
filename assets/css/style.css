@@ -35,6 +35,18 @@ body {
     color: white;
 }
 
+.btn-color-reverse-1 {
+    background-color: white;
+    border-color: #753728;
+    color: #753728;
+}
+
+.btn-color-reverse-1:hover {
+    background-color: #753728;
+    border-color: #753728;
+    color: white;
+}
+
 .btn-color-reverse-3 {
     background-color: white;
     border-color: #d06635;
