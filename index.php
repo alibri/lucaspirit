@@ -16,25 +16,25 @@
     <meta name="theme-color" content="#ffffff">
 
     <?php if ($config['debug']):?>
-        <?php foreach($config['css'] as $css):?>
-            <link rel="stylesheet" href="<?php echo $css;?>">
-        <?php endforeach; ?>
+    <?php foreach($config['css'] as $css):?>
+    <link rel="stylesheet" href="<?php echo $css;?>">
+    <?php endforeach; ?>
     <?php else: ?>
-        <link rel="stylesheet" href="<?php echo $config['cssmin'];?>">
+    <link rel="stylesheet" href="<?php echo $config['cssmin'];?>">
     <?php endif; ?>
 </head>
 
 <body id="page-top">
     <header class="d-flex masthead header-bg">
-    <div class="container text-center">
-    <div class="row align-items-center">
+        <div class="container text-center">
+            <div class="row align-items-center">
                 <div class="col-6 mx-auto">
-    <div class="arrow bounce">
-        <a class="fa fa-chevron-down fa-3x" href="#start"></a>
-    </div>
-    </div>
-    </div>
-    </div>
+                    <div class="arrow bounce">
+                        <a class="fa fa-chevron-down fa-3x" href="#start"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </header>
     <section id="disco" class="bg-light- mb-5">
         <a id="start">&nbsp;</a>
@@ -53,7 +53,8 @@
                     <div class="color-3 bold mt-3">BONUS TRACK</div>
                     <div class="color-2">OM LOKAH SAMASTAH | LUCA&#xB4;SPIRIT</div>
                     <div>
-                        <a class="btn btn-primary rounded-pill btn-color-2 mt-5" role="button" href="<?php echo $config['download'];?>">DESCARGAR</a>
+                        <a class="btn btn-primary rounded-pill btn-color-2 mt-5" role="button"
+                            href="<?php echo $config['download'];?>">DESCARGAR CON CÓDIGO</a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 mx-auto">
@@ -63,22 +64,32 @@
             <div class="row align-items-center-">
                 <div class="col-lg-6 col-md-12 align-self-center">
                     <div class="row">
-                        <div class="col-6 align-self-center text-end color-3">Cualquier dificultad en la descarga
-                            ponte en contacto con nosostros</div>
-                        <div class="col-6 align-self-center text-start"><a
-                                class="btn btn-primary rounded-pill btn-color-reverse-3" role="button"
-                                href="mailto:<?php echo $config['email'];?>">CONSULTAS</a></div>
+                        <div class="col-6 align-self-center text-end color-1">
+                        Si no tienes la tarjeta con el código de descarga, adquiere tu álbum Bhāva en formato digital aquí
+                        </div>
+                        <div class="col-6 align-self-center text-start">
+                            <a class="btn btn-primary rounded-pill btn-color-reverse-1" role="button"
+                                href="<?php echo $config['buy'];?>">COMPRA</a>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 mx-auto">
-
+                <div class="col-lg-6 col-md-12 align-self-center">
+                    <div class="row">
+                        <div class="col-6 align-self-center text-end color-3">
+                            Cualquier dificultad en la descarga
+                            ponte en contacto con nosostros
+                        </div>
+                        <div class="col-6 align-self-center text-start">
+                            <a class="btn btn-primary rounded-pill btn-color-reverse-3" role="button"
+                                href="mailto:<?php echo $config['email'];?>">CONSULTAS</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="ficha" class="pt-5"
-        style="background-image: url('assets/img/bg-ficha.jpg');">
+    <section id="ficha" class="pt-5" style="background-image: url('assets/img/bg-ficha.jpg');">
         <div class="container text-center">
             <div class="row mt-5">
                 <div class="col-lg-8 mx-auto">
@@ -89,7 +100,7 @@
                 <div class="col-lg-7 mx-auto">
                     <div>
                         La palabra bhāva tiene múltiples definiciones,
-                        pero si tuviéramos que resumirla en una idea sería:<br/>
+                        pero si tuviéramos que resumirla en una idea sería:<br />
                         <strong>«el bhāva lo es todo»</strong>.
                     </div>
                     <div class="mt-3">
@@ -150,17 +161,18 @@
     <footer class="mt-5 text-center">
         <div class="container">
             <ul class="list-inline mb-5">
-                <li class="list-inline-item color-2 underline">&nbsp;DISEÑO | <a href="https://WWW.FEDERICOBENAGHI.COM" target="_blank">WWW.FEDERICOBENAGHI.COM</a></li>
-                <li class="list-inline-item color-1">&nbsp;<strong><?php echo $config['email'];?></Strong</li>
-            </ul>
-        </div><a class="js-scroll-trigger scroll-to-top rounded" href="#page-top"><i class="fa fa-angle-up"></i></a>
+                <li class="list-inline-item color-2 underline">&nbsp;DISEÑO | <a href="https://WWW.FEDERICOBENAGHI.COM"
+                        target="_blank">WWW.FEDERICOBENAGHI.COM</a></li>
+                <li class="list-inline-item color-1">&nbsp;<strong><?php echo $config['email'];?></Strong</li> </ul>
+                            </div> <a class="js-scroll-trigger scroll-to-top rounded" href="#page-top"><i
+                            class="fa fa-angle-up"></i></a>
     </footer>
     <?php if ($config['debug']):?>
-        <?php foreach($config['js'] as $js):?>
-            <script src="<?php echo $js;?>"></script>
-        <?php endforeach; ?>
+    <?php foreach($config['js'] as $js):?>
+    <script src="<?php echo $js;?>"></script>
+    <?php endforeach; ?>
     <?php else: ?>
-        <script src="<?php echo  $config['jsmin'];?>"></script>
+    <script src="<?php echo  $config['jsmin'];?>"></script>
     <?php endif; ?>
 </body>
 

@@ -4,6 +4,7 @@ $config = [
     'title'     => 'Luca\'Spirit - Bhāva',
     'email'     => 'lucasmascianospirit@gmail.com',
     'download'  => 'https://lucaspirit.bandcamp.com/yum',
+    'buy'       => 'https://lucaspirit.bandcamp.com/album/bh-va?from=hp&action=buy',
     'css'       => [
         "assets/css/bootstrap.min.css",
         "assets/css/font-awesome.min.css",
