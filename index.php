@@ -54,7 +54,7 @@
                     <div class="color-2">OM LOKAH SAMASTAH | LUCA&#xB4;SPIRIT</div>
                     <div>
                         <a class="btn btn-primary rounded-pill btn-color-2 mt-5" role="button"
-                            href="<?php echo $config['download'];?>">DESCARGAR CON CÓDIGO</a>
+                            href="<?php echo $config['download'];?>">DESCARGA CON CÓDIGO</a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 mx-auto">
