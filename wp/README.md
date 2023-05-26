@@ -1,2 +1,0 @@
-# lucaspirit
-Web Lucas Spirit
