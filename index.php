@@ -73,7 +73,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12 align-self-center">
+                <div class="col-lg-6 col-md-12 align-self-center mb-5">
                     <div class="row">
                         <div class="col-6 align-self-center text-end color-3">
                             Cualquier dificultad en la descarga
