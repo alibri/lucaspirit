@@ -160,12 +160,14 @@
 
     <footer class="mt-5 text-center mb-5">
         <div class="container">
-            <ul class="list-inline mb-5">
+            <ul class="list-inline">
                 <li class="list-inline-item color-2 underline">&nbsp;DISEÑO | <a href="https://WWW.FEDERICOBENAGHI.COM"
-                        target="_blank">WWW.FEDERICOBENAGHI.COM</a></li>
-                <li class="list-inline-item color-1">&nbsp;<strong><?php echo $config['email'];?></Strong</li> </ul>
-                            </div> <a class="js-scroll-trigger scroll-to-top rounded" href="#page-top"><i
-                            class="fa fa-angle-up"></i></a>
+                        target="_blank">WWW.FEDERICOBENAGHI.COM</a>
+                </li>
+                <li class="list-inline-item color-1">&nbsp;<strong><?php echo $config['email'];?></strong</li>
+            </ul>
+        </div> 
+        <a class="js-scroll-trigger scroll-to-top rounded" href="#page-top"><i class="fa fa-angle-up"></i></a>
     </footer>
     <?php if ($config['debug']):?>
     <?php foreach($config['js'] as $js):?>
